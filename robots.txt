@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zionixxdev.github.io/school-website/sitemap.xml
+Sitemap: https://ridhimaworldschool.github.io/school-website/sitemap.xml
