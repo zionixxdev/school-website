@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zionixxdev.github.io/school-website/sitemap.xml
